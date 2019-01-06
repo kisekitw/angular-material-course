@@ -1,0 +1,8 @@
+/* .signup-form {
+  width: 300px;
+  border-color: black;
+} */
+
+mat-form-field {
+  width: 300px;
+}
